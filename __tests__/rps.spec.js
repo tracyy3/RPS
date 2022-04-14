@@ -2,7 +2,7 @@ const { hands, player1, player2, getHand } = require("./index");
 
 // 'toBe()'
 describe("Johnnie Walker", () => {
-  test("player1", () => {
+test("player1", () => {
     expect(player1.name).toBe("Johnnie Walker");
   });
 });
