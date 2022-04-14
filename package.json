@@ -1,0 +1,23 @@
+{
+  "name": "rps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tyang03/RPS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tyang03/RPS/issues"
+  },
+  "homepage": "https://github.com/tyang03/RPS#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}

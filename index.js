@@ -93,3 +93,8 @@ const playTournament = function (
 };
 
 playTournament(player1, player2, player3, player4, 3);
+
+module.exports.hands = hands;
+module.exports.player1 = player1;
+module.exports.player2 = player2;
+// the module needs to be exported from the actual js file!
